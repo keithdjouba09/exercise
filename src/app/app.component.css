@@ -1,0 +1,14 @@
+li{
+  padding:10px 0;
+  background-color:hsla(173, 62%, 45%, 0.7);
+  border-radius: 10px;
+  box-shadow:0 0 7px hsla(173, 62%, 45%, 0.3);
+  margin:10px 0;
+}
+input{
+  font-size: 22px;
+}
+a{
+color: white;
+font-size: 22px
+}

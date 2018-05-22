@@ -10,5 +10,14 @@ input{
 }
 a{
 color: white;
-font-size: 22px
+font-size: 22px;
+text-align:center;
+}
+p.snip-first{
+
+  border-left: 4px solid var(--yellow3);
+  padding-left:.8em;
+  text-align: justify;
+  margin-bottom:1em;
+  margin-top: 1.9em;
 }
